@@ -1,48 +1,45 @@
-RAG
-===========================
+Welcome to Multi_RAG's Documentation!
+======================================
 
+.. figure:: /Documentation/images/pilot.jpg
+   :width: 800
+   :align: center
+   :alt: Multi_RAG Documentation Cover
 
+--------------------------------------------------------
 
-.. figure:: /Documentation/images/introo.jpg
-   :width: 100%
-   :alt: Alternative text for the image
-   :name: logo
+Welcome to the official documentation for Multi_RAG, a Retrieval-Augmented Generation (RAG) application designed for multilingual support (French, Arabic, and English). This project demonstrates the implementation of RAG models in an interactive Streamlit application, showcasing powerful capabilities for retrieval and generation.
 
-
-.. raw:: html
-
-    <p style="text-align: justify;"><span style="color:#000080;"><i>    
-    
-    In this article, I will explain the concept of Retrieval-Augmented Generation (RAG), providing numerous examples and discussing the advantages of using RAG models. RAG effectively combines the capabilities of retrieval systems and generative models to create more informed and contextually relevant outputs. Let’s dive into RAG in detail.
-   To illustrate the application of RAG, I will demonstrate how it can be implemented in a Streamlit application. Here, we can build an interactive interface that showcases the differences between various language models 
-    </i></span></p>
-
----------------------------------------------------------------------------
- 
-.. toctree::
-   :maxdepth: 3
-   :caption: Introduction
-
-   Documentation/scripts/Scope/introduction.rst
+Contents:
+---------
 
 .. toctree::
-   :maxdepth: 4
-   :caption: Architecture
+   :maxdepth: 2
+   :caption: Main Sections
 
+   introduction.rst
+   architecture.rst
+   implementation.rst
 
-
-
-
+Subsections:
+------------
 
 .. toctree::
-   :maxdepth: 4
-   :caption: Implimentation
+   :maxdepth: 2
+   :caption: Details
 
+   retrieval_layer.rst
+   generation_layer.rst
+   interface.rst
 
+Further Reading:
+----------------
 
-.. raw:: html
+Visit the official repository: `<https://github.com/SAAD1190/Multi_Rag>`_
 
-    <p><span style="color:white;">'</p></span>
+Indices and Tables:
+-------------------
 
-
-
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
