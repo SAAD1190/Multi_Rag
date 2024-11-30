@@ -10,36 +10,38 @@ Welcome to Multi_RAG's Documentation!
 
 Welcome to the official documentation for Multi_RAG, a Retrieval-Augmented Generation (RAG) application designed for multilingual support (French, Arabic, and English). This project demonstrates the implementation of RAG models in an interactive Streamlit application, showcasing powerful capabilities for retrieval and generation.
 
-Contents:
----------
+.. toctree::
+   :maxdepth: 2
+   :caption: Introduction
+
+   Documentation/scripts/Scope/introduction.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Main Sections
+   :caption: Architecture
 
-   introduction.rst
-   architecture.rst
-   implementation.rst
-
-Subsections:
-------------
+   Documentation/scripts/Scope/architecture.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Details
+   :caption: Implementation
 
-   retrieval_layer.rst
-   generation_layer.rst
-   interface.rst
+   Documentation/scripts/Scope/implementation.rst
 
-Further Reading:
-----------------
+.. toctree::
+   :maxdepth: 2
+   :caption: Retrieval Layer
 
-Visit the official repository: `<https://github.com/SAAD1190/Multi_Rag>`_
+   Documentation/scripts/Scope/retrieval_layer.rst
 
-Indices and Tables:
--------------------
+.. toctree::
+   :maxdepth: 2
+   :caption: Generation Layer
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Documentation/scripts/Scope/generation_layer.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Interface
+
+   Documentation/scripts/Scope/interface.rst
