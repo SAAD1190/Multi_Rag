@@ -1,4 +1,4 @@
-1. Overview
+Overview
 ========================
 
 .. figure:: /Documentation/images/intro.jpg
@@ -10,14 +10,14 @@
 
 Retrieval-Augmented Generation (RAG) is a powerful technique combining retrieval systems and generative models to produce more accurate and context-aware outputs.
 
-2. Highlights
+Highlights
 =============
 
 - **Multilingual Support**: This application supports French, Arabic, and English.
 
 - **Interactive Interfaces**: Built using frameworks like Streamlit.
 
-2. General Pipeline
+General Pipeline
 ===================
 
 **Input Query**
