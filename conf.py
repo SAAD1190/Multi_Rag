@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Multi-Rag Chatbot'
-copyright = '2024, GIIADS, By SAAD UTAH'
+copyright = '2024, GIIADS, By SAAD MENIAR'
 author = 'SAAD UTAH'
 
 # -- General configuration ---------------------------------------------------
