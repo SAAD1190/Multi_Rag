@@ -1,7 +1,7 @@
 Step-by-Step Guide to Using the Chatbot Interface
 --------------------------------------------------
 .. figure:: /Documentation/images/guide.png
-   :width: 700
+   :width: 300
    :align: center
    :alt: Guide
 
