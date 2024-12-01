@@ -22,6 +22,31 @@ Highlights
 - **Document Retrieval**: Handles PDF uploads and processes content for retrieval in three languages.
 - **Dynamic Embedding**: Utilizes FAISS for Arabic and Chroma for English and French.
 
+
+Prerequisites
+-------------
+
+- **Install Ollama Server**: Ensure that the Ollama server is installed and running on your local machine. This is essential for embedding generation and model execution.
+  - Visit the official Ollama documentation for installation instructions.
+
+- **Download Required Models**: Use the `ollama` command-line tool to download the necessary models, such as `mistral`. Example:
+   ```
+   ollama download mistral
+   ```
+This ensures that the required models are available locally for processing English and French documents.
+
+- **Python Environment**: Ensure all required Python packages are installed:
+
+   ```
+pip install streamlit PyPDF2 langchain faiss-cpu sentence-transformers
+
+   ```
+
+- **Start Ollama Server**: Run the Ollama server before launching the chatbot:
+
+
+These steps must be completed before using the chatbot to ensure smooth operation and model availability.
+
 Architecture Overview
 ----------------------
 

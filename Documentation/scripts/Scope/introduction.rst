@@ -8,6 +8,12 @@ Overview
 
 --------------------------------------------------------------
 
+.. figure:: /Documentation/images/app_screenshots.png
+   :width: 600
+   :align: center
+   :alt: Application Screenshots
+--------------------------------------------------------------
+
 Retrieval-Augmented Generation (RAG) is a powerful technique combining retrieval systems and generative models to produce more accurate and context-aware outputs.
 
 Highlights
