@@ -9,7 +9,7 @@ Overview
 --------------------------------------------------------------
 
 .. figure:: /Documentation/images/app_screenshots.png
-   :width: 600
+   :width: 800
    :align: center
    :alt: Application Screenshots
 --------------------------------------------------------------
