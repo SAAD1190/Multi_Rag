@@ -18,27 +18,9 @@ Welcome to the official documentation for Multi_RAG, a Retrieval-Augmented Gener
 
 .. toctree::
    :maxdepth: 2
-   :caption: Architecture
-
-   Documentation/scripts/Scope/architecture.rst
-
-.. toctree::
-   :maxdepth: 2
    :caption: Implementation
 
    Documentation/scripts/Scope/implementation.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Retrieval Layer
-
-   Documentation/scripts/Scope/retrieval_layer.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Generation Layer
-
-   Documentation/scripts/Scope/generation_layer.rst
 
 .. toctree::
    :maxdepth: 2
