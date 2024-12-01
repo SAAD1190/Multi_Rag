@@ -8,6 +8,13 @@ Welcome to Multi_RAG's Documentation!
 
 --------------------------------------------------------
 
+.. figure:: /Documentation/images/app_screenshots.png
+   :width: 800
+   :align: center
+   :alt: Application Screenshots
+--------------------------------------------------------------
+
+
 Welcome to the official documentation for Multi_RAG, a Retrieval-Augmented Generation (RAG) application designed for multilingual support (French, Arabic, and English). This project demonstrates the implementation of RAG models in an interactive Streamlit application, showcasing powerful capabilities for retrieval and generation.
 
 .. toctree::
