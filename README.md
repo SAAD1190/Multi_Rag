@@ -1,9 +1,6 @@
 # Multi_RAG: Retrieval-Augmented Generation Application
 
-.. image:: /Documentation/images/pilot.jpg
-   :alt: Multi_RAG Interface
-   :align: center
-   :width: 600px
+![Multi_RAG Interface](Documentation/images/pilot.jpg)
 
 Welcome to **Multi_RAG**, a multilingual Retrieval-Augmented Generation (RAG) application supporting **French**, **Arabic**, and **English**. This project combines retrieval systems and generative models to create interactive, context-aware responses, implemented in a **Streamlit** application.
 
@@ -17,5 +14,5 @@ Welcome to **Multi_RAG**, a multilingual Retrieval-Augmented Generation (RAG) ap
 ---
 
 ## Documentation
-The full documentation is available at https://multirag.readthedocs.io/.
+The full documentation is available at [Multi_RAG Documentation](https://multirag.readthedocs.io/).
 
