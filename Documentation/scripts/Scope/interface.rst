@@ -1,9 +1,8 @@
-Interactive Interface Arabic Version
+Interactive Interface Features
 ========================
 
-The multilingual app uses Streamlit for deployment, providing a seamless user experience.
+The multilingual app uses Streamlit for deployment, providing a seamless user experience with the following features:
 
-Features:
 - **Language Selection**: Toggle between French, Arabic, and English.
 - **Dynamic Embedding**: FAISS for Arabic and Chroma for English and French.
 - **Dynamic interface language changes**: Update labels and settings based on the selected language.
