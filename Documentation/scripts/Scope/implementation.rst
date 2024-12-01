@@ -35,11 +35,7 @@ Prerequisites
    ```
 This ensures that the required models are available locally for processing English and French documents.
 
-- **Python Environment**: Ensure all required Python packages are installed:
-
-   ```
-   pip install streamlit PyPDF2 langchain faiss-cpu sentence-transformers
-   ```
+- **Python Environment**: Ensure all required Python packages are installed: pip install streamlit PyPDF2 langchain faiss-cpu sentence-transformers
 
 - **Start Ollama Server**: Run the Ollama server before launching the chatbot:
 
