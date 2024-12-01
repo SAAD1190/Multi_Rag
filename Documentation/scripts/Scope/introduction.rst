@@ -1,4 +1,4 @@
-Introduction
+1. Overview
 ========================
 
 .. figure:: /Documentation/images/intro.jpg
@@ -10,7 +10,7 @@ Introduction
 
 Retrieval-Augmented Generation (RAG) is a powerful technique combining retrieval systems and generative models to produce more accurate and context-aware outputs.
 
-1. Highlights
+2. Highlights
 =============
 
 - **Multilingual Support**: This application supports French, Arabic, and English.
@@ -28,9 +28,9 @@ A user provides a natural language query (e.g., "What are the applications of qu
 **Retrieval System**
 --------------------
 
-- Query Encoder: The input query is encoded into a dense vector using a query encoder (embedder).
-- Knowledge Base: A large dataset or knowledge base or corpus serving as a context is embedded into dense vectors and then stored in a database (such as chroma database)
-- Similarity Search: The query vector is compared with document vectors using a similarity metric (e.g., cosine similarity).
+- **Query Encoder**: The input query is encoded into a dense vector using a query encoder (embedder).
+- **Knowledge Base**: A large dataset or knowledge base or corpus serving as a context is embedded into dense vectors and then stored in a database (such as chroma database)
+- **Similarity Search**: The query vector is compared with document vectors using a similarity metric (e.g., cosine similarity).
 
 **Natural Language Generation**
 -------------------
