@@ -27,3 +27,9 @@ Welcome to the official documentation for Multi_RAG, a Retrieval-Augmented Gener
    :caption: Interface
 
    Documentation/scripts/Scope/interface.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Guide
+
+   Documentation/scripts/Scope/guide.rst
